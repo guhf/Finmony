@@ -18,4 +18,4 @@ Finmony是一款HarmonyOS NEXT平台的第三方Jellyfin App，可以播放Jelly
 - 电子邮件：c_guhf@163.com
 - GitHub仓库：[[Finmony GitHub链接](https://github.com/guhf/Finmony/)]
 
-感谢您对Auto-Installer项目的关注！
+感谢您对Finmony项目的关注！
