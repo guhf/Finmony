@@ -8,9 +8,16 @@ Finmony是一款HarmonyOS NEXT平台的第三方Jellyfin App，可以播放Jelly
 **注意：本仓库仅专门上传hap侧载包，源代码暂时不开源**
 
 ## 截图
-![原图](https://img2024.cnblogs.com/blog/2845014/202406/2845014-20240617165451537-517285446.jpg =300x200)
-![home.jpg](screenshots/home.jpg =25%x25%)![collect.jpg](screenshots/collect.jpg =25%x25%)![mine.jpg](screenshots/mine.jpg =25%x25%)![video-detail.jpg](screenshots/video-detail.jpg =25%x25%)
-![episodes.jpg](screenshots/episodes.jpg =25%x25%)![episodes-series.jpg](screenshots/episodes-series.jpg =25%x25%)![home-series.jpg](screenshots/home-series.jpg =25%x25%)![player.jpg](screenshots/player.jpg =25%x25%)
+<div align="center">
+  <img src=screenshots/home.jpg width="25%"/>
+  <img src=screenshots/collect.jpg width="25%"/>
+  <img src=screenshots/mine.jpg width="25%"/>
+  <img src=screenshots/video-detail.jpg width="25%"/>
+  <img src=screenshots/episodes.jpg width="25%"/>
+  <img src=screenshots/episodes-series.jpg width="25%"/>
+  <img src=screenshots/home-series.jpg width="25%"/>
+  <img src=screenshots/player.jpg width="25%"/>
+</div>
 
 ## 功能
 - 电影、节目、音乐视频类型媒体库。
