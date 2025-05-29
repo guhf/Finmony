@@ -27,6 +27,7 @@ Finmony是一款HarmonyOS NEXT平台的第三方Jellyfin App，可以播放Jelly
 - 切换字幕（需要有外挂字幕）。
 - 手势操作（调节音量、亮度、播放进度、长按倍速）。
 - 弹幕。
+- 服务器、地址、用户管理。
 
 ## 播放器
 - 系统播放器（AV Player）
@@ -36,7 +37,6 @@ Finmony是一款HarmonyOS NEXT平台的第三方Jellyfin App，可以播放Jelly
 - 切换码率
 - 小窗播放
 - 多端适配
-- 切换服务器、切换用户
 - ...
 
 ## 安装方法
