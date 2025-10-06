@@ -4,6 +4,7 @@
 
 Finmony是一款HarmonyOS NEXT平台的第三方Jellyfin App，可以播放Jellyfin服务器上电影、节目、歌曲视频。
 名称灵感来源于Android平台第三方Jellyfin App [Findroid](https://github.com/jarnedemeulemeester/findroid)。
+现已上架[App Gallery](https://appgallery.huawei.com/app/detail?id=com.hontt.finmony)。
 
 **注意：本仓库仅专门上传app、hap侧载包，源代码暂时不开源**
 
@@ -41,7 +42,11 @@ Finmony是一款HarmonyOS NEXT平台的第三方Jellyfin App，可以播放Jelly
 
 ## 安装方法
 
-需要使用[Auto-installer](https://github.com/likuai2010/auto-installer/)进行侧载安装。
+- <a href="https://appgallery.huawei.com/app/detail?id=com.hontt.finmony">
+  <img src="https://img.shields.io/badge/-AppGallery-gray?logo=appgallery&logoColor=red" alt="AppGallery" height="60"/>
+</a>
+
+- 使用[Auto-installer](https://github.com/likuai2010/auto-installer/)进行侧载安装。
 
 ## 联系方式
 如果您对Finmony有任何建议、反馈或合作意向，欢迎通过以下方式联系我们：
